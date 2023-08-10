@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css" />
+  </head>
+  <body>
+    <header>
+      <div class="banner" style="display: flex">
+        <img src="./assets/img/logoChico.svg" alt="" />
+        <ul style="width: 20%">
+          <li style="display: flex; flex-direction: column">
+            <div><p id="bienvenido"></p></div>
+            <div style="display: flex">
+              <button id="i" style="margin: 10px">INGRESAR</button>
+              <button id="c" style="margin: 10px">CREAR CUENTA</button>
+              <button id="salir" class="btnSalir">SALIR</button>
+            </div>
+          </li>
+          <li>
+            <p></p>
+          </li>
+        </ul>
+      </div>
+      <nav>
+        <ul class="listaNav">
+          <li><a href="#">HOME</a></li>
+          <li><a href="#">CARRITO</a></li>
+          <li><a href="#">CATALOGO</a></li>
+          <li><a href="#">CONTACTO</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="listadoProductos" class="listadoProductos"></section>
+
+      <aside class="carroPadre">
+        <div class="carro">
+          <h2>TU CARRITO</h2>
+          <br />
+          <div class="cListaCarrito" id="listaCarrito"></div>
+          <br />
+          <p>El total de tu compra es $<span id="totalDeCompraCarrito">0</span></p>
+
+          <button id="botonVaciarCarrito">Vaciar Carrito</button>
+          <button class="btnPagar" id="botonPagar">Pagar</button>
+        </div>
+      </aside>
+    </main>
+
+    <script type="module" src="assets/js/script.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+  </body>
+</html>

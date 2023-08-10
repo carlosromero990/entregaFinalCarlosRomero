@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+.login {
+  width: 480px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 30px;
+  background-color: rgba(128, 128, 128, 0.267);
+}
+.box1 {
+  text-align: center;
+  font-size: 30px;
+}
+
+.casillero {
+  display: flex;
+  width: 100%;
+  height: 60px;
+  padding: 0 25px;
+  border-radius: 30px;
+  margin-bottom: 10px;
+  margin-top: 30px;
+  font-size: 20px;
+  border-style: none;
+}
+.casillero:focus {
+  border-style: dashed;
+}
+.box4 {
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+.box5 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.box5 button {
+  width: 70%;
+  height: 60px;
+  border-radius: 30px;
+  border: none;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: black;
+  color: white;
+  margin-bottom: 10px;
+}
+.box6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+.box6 button {
+  width: 30%;
+  height: 40px;
+  border-radius: 30px;
+  border: none;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: black;
+  color: white;
+  margin-bottom: 10px;
+}
+.box2 {
+  position: relative;
+}
+.box2 i {
+  position: absolute;
+  right: 30px;
+  top: 50%;
+  font-size: 20px;
+}
+.box3 {
+  position: relative;
+}
+.box3 i {
+  position: absolute;
+  right: 30px;
+  top: 50%;
+  font-size: 20px;
+}
+.box4 label {
+  font-size: 20px;
+}
+.box6 p {
+  font-size: 20px;
+  margin-bottom: 10px;
+}

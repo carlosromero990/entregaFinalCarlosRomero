@@ -1,0 +1,126 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+ul {
+  list-style: none;
+}
+.banner {
+  background-color: rgba(128, 128, 128, 0.445);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 3rem;
+  padding-right: 5rem;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+.listaNav {
+  display: flex;
+  background-color: black;
+  justify-content: space-around;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+main {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.listadoProductos {
+  width: 75%;
+
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.cardProducto {
+  width: 24%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+  position: relative;
+}
+.cardProducto img {
+  width: 80%;
+  border-radius: 10px;
+}
+.textosProductos {
+  width: 80%;
+  height: 100%;
+  border-radius: 10px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.7);
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.textosProductos {
+  color: white;
+}
+.carroPadre {
+  width: 25%;
+}
+.carro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cardProducto:hover .textosProductos {
+  opacity: 1;
+}
+.btnSalir {
+  display: none;
+}
+button {
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 0;
+}
+.agregarAlCarrito:hover {
+  background-color: rgb(107, 209, 107);
+  transition: 1s;
+}
+.cardMini {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+.cardMini img {
+  height: 70px;
+}
+.cListaCarrito {
+  width: 100%;
+}
+.btnPagar {
+  display: none;
+}
+.btnSalir {
+  display: none;
+}
+.inputCrear {
+  display: none;
+}
+.inputLogin {
+  display: none;
+}
+.btnCancelar {
+  display: none;
+}

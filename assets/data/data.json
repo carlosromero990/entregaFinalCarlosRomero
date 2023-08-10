@@ -1,0 +1,205 @@
+[
+  {
+    "id": 1,
+    "nombre": "Remera Samurai",
+    "precio": 6000,
+    "categoria": "Remera",
+    "imgUrl": "assets/img/remeras/RemeraSamurai.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Remera Virgen",
+    "precio": 6000,
+    "categoria": "Remera",
+    "imgUrl": "assets/img/remeras/RemeraVirgen.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Remera Griego",
+    "precio": 6000,
+    "categoria": "Remera",
+    "imgUrl": "assets/img/remeras/RemeraGriego.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Remera Estatua",
+    "precio": 6000,
+    "categoria": "Remera",
+    "imgUrl": "assets/img/remeras/RemeraEstatua.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Remera Graff",
+    "precio": 6000,
+    "categoria": "Remera",
+    "imgUrl": "assets/img/remeras/RemeraGraff.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Remera Cat",
+    "precio": 6000,
+    "categoria": "Remera",
+    "imgUrl": "assets/img/remeras/Remeragato.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Buzo Cash",
+    "precio": 7000,
+    "categoria": "Abrigo",
+    "imgUrl": "assets/img/abrigos/BuzoCash.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Buzo Puma",
+    "precio": 7000,
+    "categoria": "Abrigo",
+    "imgUrl": "assets/img/abrigos/BuzoPuma.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Campera de Cuero",
+    "precio": 25000,
+    "categoria": "Abrigo",
+    "imgUrl": "assets/img/abrigos/CamperaCuero.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Camperon Rojo",
+    "precio": 20000,
+    "categoria": "Abrigo",
+    "imgUrl": "assets/img/abrigos/Camperonrojo.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Pantalon Cargo",
+    "precio": 10000,
+    "categoria": "Pantalon",
+    "imgUrl": "assets/img/pantalon/cargo.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Pantalon Cargo Techwear",
+    "precio": 12000,
+    "categoria": "Pantalon",
+    "imgUrl": "assets/img/pantalon/cargotechwear.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Pantalon Cargo Techwear",
+    "precio": 12000,
+    "categoria": "Pantalon",
+    "imgUrl": "assets/img/pantalon/cargotechwear.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Jogger Marcas",
+    "precio": 10000,
+    "categoria": "Pantalon",
+    "imgUrl": "assets/img/pantalon/joggermarcas.jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "Pantalon con Tiras",
+    "precio": 11000,
+    "categoria": "Pantalon",
+    "imgUrl": "assets/img/pantalon/joggertiras.jpg"
+  },
+  {
+    "id": 16,
+    "nombre": "Pantalon Jean Mom",
+    "precio": 12000,
+    "categoria": "Pantalon",
+    "imgUrl": "assets/img/pantalon/mom.jpg"
+  },
+  {
+    "id": 17,
+    "nombre": "Bermuda Cargo",
+    "precio": 9000,
+    "categoria": "Bermuda",
+    "imgUrl": "assets/img/bermuda/bermudacargo.jpg"
+  },
+  {
+    "id": 18,
+    "nombre": "Bermuda Joggin",
+    "precio": 9000,
+    "categoria": "Bermuda",
+    "imgUrl": "assets/img/bermuda/bermudajoggin.jpg"
+  },
+  {
+    "id": 19,
+    "nombre": "Bermuda Jean con Roturas",
+    "precio": 9000,
+    "categoria": "Bermuda",
+    "imgUrl": "assets/img/bermuda/bermudarotura.jpg"
+  },
+  {
+    "id": 20,
+    "nombre": "Short Basket",
+    "precio": 9000,
+    "categoria": "Bermuda",
+    "imgUrl": "assets/img/bermuda/shortbasket.jpg"
+  },
+  {
+    "id": 21,
+    "nombre": "Morral Afa",
+    "precio": 5000,
+    "categoria": "Morral",
+    "imgUrl": "assets/img/morral/morralafa.jpg"
+  },
+  {
+    "id": 22,
+    "nombre": "Morral DC",
+    "precio": 5000,
+    "categoria": "Morral",
+    "imgUrl": "assets/img/morral/morraldc.jpg"
+  },
+  {
+    "id": 23,
+    "nombre": "Morral Jordan",
+    "precio": 5000,
+    "categoria": "Morral",
+    "imgUrl": "assets/img/morral/morraljordan.jpg"
+  },
+  {
+    "id": 24,
+    "nombre": "Morral Rojo",
+    "precio": 5000,
+    "categoria": "Morral",
+    "imgUrl": "assets/img/morral/morralrojo.jpg"
+  },
+  {
+    "id": 25,
+    "nombre": "Gorra Jordan",
+    "precio": 4000,
+    "categoria": "Gorras",
+    "imgUrl": "assets/img/gorros/gorrajordan.jpg"
+  },
+  {
+    "id": 26,
+    "nombre": "Gorra RedBull",
+    "precio": 4000,
+    "categoria": "Gorras",
+    "imgUrl": "assets/img/gorros/gorraredbull.jpg"
+  },
+  {
+    "id": 27,
+    "nombre": "Piluso Afa",
+    "precio": 4000,
+    "categoria": "Gorras",
+    "imgUrl": "assets/img/gorros/pilusoafa.jpg"
+  },
+  {
+    "id": 28,
+    "nombre": "Piluso Cow",
+    "precio": 4000,
+    "categoria": "Gorras",
+    "imgUrl": "assets/img/gorros/pilusocow.jpg"
+  },
+  {
+    "id": 25,
+    "nombre": "Gorra Caos",
+    "precio": 4000,
+    "categoria": "Gorras",
+    "imgUrl": "assets/img/gorros/pilusocaos.jpg"
+  }
+]
