@@ -84,7 +84,7 @@ function salir() {
   btnC.style.display = "block";
   btnI.style.display = "block";
   localStorage.removeItem("usuarioON");
-  window.location.href = "/index.html";
+  window.location.href = "index.html";
 }
 //
 //
