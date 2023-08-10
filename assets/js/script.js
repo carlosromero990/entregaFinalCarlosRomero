@@ -165,9 +165,21 @@ function vaciarCarrito() {
 //
 function mensajeGracias() {
   if (carrito.length === 0) {
-    alert("No es posible realizar la operación ya que tu carrito está vacío");
+    Swal.fire({
+      icon: "error",
+      title: "No es posible realizar la operación",
+      text: "Tu carrito está vacío",
+      ConfirmButtonText: "Continuar",
+      timer: 3000,
+    });
   } else {
-    alert(`Muchas gracias por tu compra`);
+    Swal.fire({
+      icon: "success",
+      title: "Muchas gracias",
+      text: "Tu compra se ah realizado correctamente",
+      ConfirmButtonText: "Continuar",
+      timer: 3000,
+    });
     vaciarCarrito();
   }
 }
