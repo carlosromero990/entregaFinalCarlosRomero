@@ -4,14 +4,14 @@
     "nombre": "Remera Samurai",
     "precio": 6000,
     "categoria": "Remera",
-    "imgUrl": "assets/img/remeras/remerasamurai-copia.jpg"
+    "imgUrl": "assets/img/remeras/remerasamuraicopia.jpg"
   },
   {
     "id": 2,
     "nombre": "Remera Virgen",
     "precio": 6000,
     "categoria": "Remera",
-    "imgUrl": "assets/img/remeras/remeravirgen-copia.jpg"
+    "imgUrl": "assets/img/remeras/remeravirgencopia.jpg"
   },
 
   {
@@ -19,56 +19,56 @@
     "nombre": "Remera Estatua",
     "precio": 6000,
     "categoria": "Remera",
-    "imgUrl": "assets/img/remeras/remeraestatua-copia.jpg"
+    "imgUrl": "assets/img/remeras/remeraestatuacopia.jpg"
   },
   {
     "id": 4,
     "nombre": "Remera Griego",
     "precio": 6000,
     "categoria": "Remera",
-    "imgUrl": "assets/img/remeras/remeragriego-copia.jpg"
+    "imgUrl": "assets/img/remeras/remeragriegocopia.jpg"
   },
   {
     "id": 5,
     "nombre": "Buzo Cash",
     "precio": 7000,
     "categoria": "Abrigo",
-    "imgUrl": "assets/img/abrigos/buzocash-copia.jpg"
+    "imgUrl": "assets/img/abrigos/buzocashcopia.jpg"
   },
   {
     "id": 6,
     "nombre": "Buzo Puma",
     "precio": 7000,
     "categoria": "Abrigo",
-    "imgUrl": "assets/img/abrigos/buzopuma-copia.jpg"
+    "imgUrl": "assets/img/abrigos/buzopumacopia.jpg"
   },
   {
     "id": 7,
     "nombre": "Campera de Cuero",
     "precio": 25000,
     "categoria": "Abrigo",
-    "imgUrl": "assets/img/abrigos/camperacuero-copia.jpg"
+    "imgUrl": "assets/img/abrigos/camperacuerocopia.jpg"
   },
   {
     "id": 8,
     "nombre": "Camperon Rojo",
     "precio": 20000,
     "categoria": "Abrigo",
-    "imgUrl": "assets/img/abrigos/camperonrojo-copia.jpg"
+    "imgUrl": "assets/img/abrigos/camperonrojocopia.jpg"
   },
   {
     "id": 9,
     "nombre": "Pantalon Cargo",
     "precio": 10000,
     "categoria": "Pantalon",
-    "imgUrl": "assets/img/pantalon/cargo-copia.jpg"
+    "imgUrl": "assets/img/pantalon/cargocopia.jpg"
   },
   {
     "id": 10,
     "nombre": "Pantalon Cargo Techwear",
     "precio": 12000,
     "categoria": "Pantalon",
-    "imgUrl": "assets/img/pantalon/cargotechwear-copia.jpg"
+    "imgUrl": "assets/img/pantalon/cargotechwearcopia.jpg"
   },
 
   {
@@ -76,97 +76,97 @@
     "nombre": "Jogger Marcas",
     "precio": 10000,
     "categoria": "Pantalon",
-    "imgUrl": "assets/img/pantalon/joggermarcas-copia.jpg"
+    "imgUrl": "assets/img/pantalon/joggermarcascopia.jpg"
   },
   {
     "id": 12,
     "nombre": "Pantalon Jean Mom",
     "precio": 12000,
     "categoria": "Pantalon",
-    "imgUrl": "assets/img/pantalon/mom-copia.jpg"
+    "imgUrl": "assets/img/pantalon/momcopia.jpg"
   },
   {
     "id": 13,
     "nombre": "Bermuda Cargo",
     "precio": 9000,
     "categoria": "Bermuda",
-    "imgUrl": "assets/img/bermuda/bermudacargo-copia.jpg"
+    "imgUrl": "assets/img/bermuda/bermudacargocopia.jpg"
   },
   {
     "id": 14,
     "nombre": "Bermuda Joggin",
     "precio": 9000,
     "categoria": "Bermuda",
-    "imgUrl": "assets/img/bermuda/bermudajoggin-copia.jpg"
+    "imgUrl": "assets/img/bermuda/bermudajoggincopia.jpg"
   },
   {
     "id": 15,
     "nombre": "Bermuda Jean con Roturas",
     "precio": 9000,
     "categoria": "Bermuda",
-    "imgUrl": "assets/img/bermuda/bermudarotura-copia.jpg"
+    "imgUrl": "assets/img/bermuda/bermudaroturacopia.jpg"
   },
   {
     "id": 16,
     "nombre": "Short Basket",
     "precio": 9000,
     "categoria": "Bermuda",
-    "imgUrl": "assets/img/bermuda/shortbasket-copia.jpg"
+    "imgUrl": "assets/img/bermuda/shortbasketcopia.jpg"
   },
   {
     "id": 17,
     "nombre": "Morral Afa",
     "precio": 5000,
     "categoria": "Morral",
-    "imgUrl": "assets/img/morral/morralafa-copia.jpg"
+    "imgUrl": "assets/img/morral/morralafacopia.jpg"
   },
   {
     "id": 18,
     "nombre": "Morral DC",
     "precio": 5000,
     "categoria": "Morral",
-    "imgUrl": "assets/img/morral/morraldc-copia.jpg"
+    "imgUrl": "assets/img/morral/morraldccopia.jpg"
   },
   {
     "id": 19,
     "nombre": "Morral Jordan",
     "precio": 5000,
     "categoria": "Morral",
-    "imgUrl": "assets/img/morral/morraljordan-copia.jpg"
+    "imgUrl": "assets/img/morral/morraljordancopia.jpg"
   },
   {
     "id": 20,
     "nombre": "Morral Rojo",
     "precio": 5000,
     "categoria": "Morral",
-    "imgUrl": "assets/img/morral/morralrojo-copia.jpg"
+    "imgUrl": "assets/img/morral/morralrojocopia.jpg"
   },
   {
     "id": 21,
     "nombre": "Gorra Jordan",
     "precio": 4000,
     "categoria": "Gorras",
-    "imgUrl": "assets/img/gorros/gorrajordan-copia.jpg"
+    "imgUrl": "assets/img/gorros/gorrajordancopia.jpg"
   },
   {
     "id": 22,
     "nombre": "Gorra RedBull",
     "precio": 4000,
     "categoria": "Gorras",
-    "imgUrl": "assets/img/gorros/gorraredbull-copia.jpg"
+    "imgUrl": "assets/img/gorros/gorraredbullcopia.jpg"
   },
   {
     "id": 23,
     "nombre": "Piluso Cow",
     "precio": 4000,
     "categoria": "Gorras",
-    "imgUrl": "assets/img/gorros/pilusocow-copia.jpg"
+    "imgUrl": "assets/img/gorros/pilusocowcopia.jpg"
   },
   {
     "id": 24,
     "nombre": "Gorra Caos",
     "precio": 4000,
     "categoria": "Gorras",
-    "imgUrl": "assets/img/gorros/pilusocaos-copia.jpg"
+    "imgUrl": "assets/img/gorros/pilusocaoscopia.jpg"
   }
 ]
