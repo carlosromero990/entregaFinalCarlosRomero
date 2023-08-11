@@ -4,28 +4,28 @@
     "nombre": "Remera Samurai",
     "precio": 6000,
     "categoria": "Remera",
-    "imgUrl": "assets/img/remeras/RemeraSamurai.jpg"
+    "imgUrl": "assets/img/remeras/remerasamurai.jpg"
   },
   {
     "id": 2,
     "nombre": "Remera Virgen",
     "precio": 6000,
     "categoria": "Remera",
-    "imgUrl": "assets/img/remeras/RemeraVirgen.jpg"
+    "imgUrl": "assets/img/remeras/remeravirgen.jpg"
   },
   {
     "id": 3,
     "nombre": "Remera Griego",
     "precio": 6000,
     "categoria": "Remera",
-    "imgUrl": "assets/img/remeras/RemeraGriego.jpg"
+    "imgUrl": "assets/img/remeras/remeragriego.jpg"
   },
   {
     "id": 4,
     "nombre": "Remera Estatua",
     "precio": 6000,
     "categoria": "Remera",
-    "imgUrl": "assets/img/remeras/RemeraEstatua.jpg"
+    "imgUrl": "assets/img/remeras/remeraestatua.jpg"
   },
 
   {
@@ -33,28 +33,28 @@
     "nombre": "Buzo Cash",
     "precio": 7000,
     "categoria": "Abrigo",
-    "imgUrl": "assets/img/abrigos/BuzoCash.jpg"
+    "imgUrl": "assets/img/abrigos/buzocash.jpg"
   },
   {
     "id": 6,
     "nombre": "Buzo Puma",
     "precio": 7000,
     "categoria": "Abrigo",
-    "imgUrl": "assets/img/abrigos/BuzoPuma.jpg"
+    "imgUrl": "assets/img/abrigos/buzopuma.jpg"
   },
   {
     "id": 7,
     "nombre": "Campera de Cuero",
     "precio": 25000,
     "categoria": "Abrigo",
-    "imgUrl": "assets/img/abrigos/CamperaCuero.jpg"
+    "imgUrl": "assets/img/abrigos/camperacuero.jpg"
   },
   {
     "id": 8,
     "nombre": "Camperon Rojo",
     "precio": 20000,
     "categoria": "Abrigo",
-    "imgUrl": "assets/img/abrigos/Camperonrojo.jpg"
+    "imgUrl": "assets/img/abrigos/camperonrojo.jpg"
   },
   {
     "id": 9,
