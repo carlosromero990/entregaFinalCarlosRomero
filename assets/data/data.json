@@ -13,21 +13,21 @@
     "categoria": "Remera",
     "imgUrl": "assets/img/remeras/remeravirgen.jpg"
   },
+
   {
     "id": 3,
-    "nombre": "Remera Griego",
-    "precio": 6000,
-    "categoria": "Remera",
-    "imgUrl": "assets/img/remeras/remeragriego.jpg"
-  },
-  {
-    "id": 4,
     "nombre": "Remera Estatua",
     "precio": 6000,
     "categoria": "Remera",
     "imgUrl": "assets/img/remeras/remeraestatua.jpg"
   },
-
+  {
+    "id": 4,
+    "nombre": "Remera Griego",
+    "precio": 6000,
+    "categoria": "Remera",
+    "imgUrl": "assets/img/remeras/remeragriego.jpg"
+  },
   {
     "id": 5,
     "nombre": "Buzo Cash",
