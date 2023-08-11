@@ -33,6 +33,9 @@ const btnC = document.getElementById("c");
 const usuario = JSON.parse(localStorage.getItem("usuarioON")) || [];
 //
 //
+//   FUNCIONES
+//
+//
 function bienvenida() {
   if (usuario.length == 1) {
     const acceso = usuario[0];
